@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [forty][forty-url], [svg][svg-url] and [sorting][sorting-url]
+- 🔭 I’m currently working on [forty][forty-url], [taggert][taggert-url], [svg][svg-url] and [sorting][sorting-url]
 - 🌱 I’m currently learning Python and SVG
 
 <!--
@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 -->
 
 [forty-url]: https://github.com/vikian050194/forty/
+[taggert-url]: https://github.com/vikian050194/taggert/
 [svg-url]: https://github.com/vikian050194/svg/
 [sorting-url]: https://github.com/vikian050194/sorting/
