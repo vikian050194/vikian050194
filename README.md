@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 I’m currently working on:
-- ⏳ [forty][forty-url] - CLI time tracker
 - 🔌 [warp][warp-url], [track][track-url] and [click][click-url] - extensions for Google Chrome
+- 🏷️ [tart][tart-utl] - desktop app for image viewing and tagging
+
+From time to time I blow dust from:
+- ⏳ [forty][forty-url] - CLI time tracker
 - ✨ [sorting][sorting-url] and [fandom][fandom-url] - vanilla JavaScript sorting visualization and NPM package for rendering
 - 🔮 [svg][svg-url] - pure Python module for SVG building and generating
 
@@ -14,3 +17,4 @@ I’m currently working on:
 [warp-url]: https://github.com/vikian050194/warp/
 [track-url]: https://github.com/vikian050194/track/
 [click-url]: https://github.com/vikian050194/click/
+[tart-url]: https://github.com/vikian050194/tart/
