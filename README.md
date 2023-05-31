@@ -2,7 +2,7 @@
 
 I’m currently working on:
 - 🔌 [warp][warp-url], [track][track-url] and [click][click-url] - extensions for Google Chrome
-- 🏷️ [tart][tart-utl] - desktop app for image viewing and tagging
+- 🏷️ [tart][tart-url] - desktop app for image viewing and tagging
 
 From time to time I blow dust from:
 - ⏳ [forty][forty-url] - CLI time tracker
