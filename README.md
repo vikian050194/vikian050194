@@ -3,7 +3,7 @@
 I’m currently working on:
 - 🔌 [warp][warp-url], [track][track-url] and [click][click-url] - extensions for Google Chrome
 - 📦 [fandom][fandom-url] - NPM package for rendering
-- ✨ [sorting][sorting-url] - vanilla JavaScript sorting visualization
+- ✨ [sorting][sorting-url] - sorting algorithms visualization
 - 🧮 [abacus][abacus-url] - arithmetic problems generator
 
 From time to time I blow dust from:
