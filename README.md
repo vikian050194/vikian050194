@@ -2,16 +2,14 @@
 
 I’m currently working on:
 - 🔌 [warp][warp-url], [track][track-url] and [click][click-url] - extensions for Google Chrome
+- 🏷️ [tart][tart-url] - desktop app for image viewing and tagging
+
+From time to time I blow dust from:
 - 📦 [fandom][fandom-url] - NPM package for rendering
 - ✨ [sorting][sorting-url] - sorting algorithms visualization
 - 🧮 [abacus][abacus-url] - arithmetic problems generator
-
-From time to time I blow dust from:
 - ⏳ [forty][forty-url] - CLI time tracker
 - 🔮 [svg][svg-url] - pure Python module for SVG building and generating
-
-Also I hope to start work on:
-- 🏷️ [tart][tart-url] - desktop app for image viewing and tagging
 
 [forty-url]: https://github.com/vikian050194/forty/
 [fandom-url]: https://github.com/vikian050194/fandom/
