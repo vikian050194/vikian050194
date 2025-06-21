@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I’m currently working on:
-- 🏷️ [tart][tart-url] - desktop app for image viewing and tagging
+- 🏷️ [tart][tart-url] - local web app to view, to tag and to move images
+- ⭕ [dotodo][dotodo-url] - CLI todo list manager
 
 From time to time I'm contribution something to:
 - 🔌 [warp][warp-url], [track][track-url] and [click][click-url] - extensions for Google Chrome
@@ -21,3 +22,4 @@ From time to time I'm contribution something to:
 [click-url]: https://github.com/vikian050194/click/
 [tart-url]: https://github.com/vikian050194/tart/
 [abacus-url]: https://github.com/vikian050194/abacus/
+[dotodo-url]: https://github.com/vikian050194/dotodo/
